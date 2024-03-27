@@ -30,4 +30,13 @@ steps:
 10. examine the loss   
 11. make a prediction  
 
+For the third assignment:  
+Implement a decision tree from scratch and apply it to the task of classifying whether a mushroom is edible or poisonous.  
+Steps:  
+1.Check the dataset.  
+2.Calculate entropy function.  
+3.Split dataset.  
+4.Get best split.  
+5.Building the tree.  
+
 
