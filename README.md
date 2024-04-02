@@ -39,4 +39,13 @@ Steps:
 4.Get best split.  
 5.Building the tree.  
 
+For the forth assignment:  
+Implement the K-means algorithm and use it for image compression.  
+steps:  
+1.Finding closest centroids  
+2.Computing centroid means  
+3.K-means on a sample dataset  
+4.Random initialization  
+5.Image compression with K-means  
+
 
