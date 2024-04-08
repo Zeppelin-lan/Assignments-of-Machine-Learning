@@ -48,4 +48,12 @@ steps:
 4.Random initialization  
 5.Image compression with K-means  
 
+For the fifth assignment:
+Collaborative Filtering Recommender Systems  
+steps:  
+1.notation  
+2.Recommender Systems  
+3.Movie ratings dataset  
+4.Collaborative filtering learning algorithm  
+5.Learning movie recommendations  
 
